@@ -1,0 +1,19 @@
+*
+{
+    background-color:  #CCE1F4;
+}
+
+h1{
+    background-color: #25B386;
+    color: #CCE1F4;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border: 600px;
+    border-color: black;
+    padding-left: 50px;
+}
